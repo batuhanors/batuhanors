@@ -1,4 +1,4 @@
-Hello, my name is Batuhan Örs and im a 22 years old computer engineering student who lives in Ankara, Turkey.
+Hello, my name is Batuhan Örs and im a 23 years old computer engineering student who lives in Ankara, Turkey.
 In my third year of college, I begun to study web development and sometimes I try to create games using unity as a hobby.
 Also Im a music producer and I make synthwave music. If you interested you can find me on spotify (or any digital music platform) as Cauldron 87.
 
