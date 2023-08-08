@@ -1,4 +1,4 @@
-<h1 style="font-size: 100px;">Hey, I'm Batuhan Örs </h1> I am a 24 years old junior web developer. Also Im a music producer and I make synthwave music. If you interested you can find me on spotify (or any digital music platform) as <a href="https://open.spotify.com/artist/0FKAb96GrnMHpdBYdYWfCA">Cauldron 87</a>
+<h1 style="font-size: 100px;">Hey, I'm Batuhan Örs </h1> I am a 24 years old junior software developer. Also I produce synthwave music. If you interested you can find me on spotify (or any digital music platform) as <a href="https://open.spotify.com/artist/0FKAb96GrnMHpdBYdYWfCA">Cauldron 87</a>
 
 Thats it! Have a nice day...
 
